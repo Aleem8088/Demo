@@ -1,3 +1,7 @@
+//intro 
+//installation
+
+
 git config --global user.name "mohammed-kaif-sheikh"
 
 git config --global user.name "mohammedkaif235@gmail.com"
@@ -9,10 +13,13 @@ cd Dev
 
 git init
 
+//folowing commands for pulling the files from github
 git remote add origin "https://github.com/mohammed-kaif-sheikh/Demo.git"
 
-git pull origin main //default branch of the repository
+git pull origin main //default branch of the repository,main is the branch name
 
+
+//following commands to add and commit files to github(single and multiple)
 git status    //for checking  what files are not uploaded.
 
 git add filename.txt //command to add a single file to the staging area 
