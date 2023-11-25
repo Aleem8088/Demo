@@ -34,6 +34,8 @@ git add . //both the previous commands can be used to add all the files to the s
 
 git commit// this will commit and open an editor to add a mesage for the commit
 
+ git commit -a -m "modified abhi.txt to add as well as to commit at once"
+
 
 
 
