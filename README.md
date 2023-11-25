@@ -25,6 +25,8 @@ git  add -A
 
 git add . //both the previous commands can be used to add all the files to the staging area
 
+git commit// this will commit and open an editor to add a mesage for the commit
+
 
 
 
