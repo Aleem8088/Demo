@@ -50,7 +50,7 @@ ec7a9456
 
 how to pull the data from github
 git pull//pulls and merge after git init 
-git fetch+merge//
+git fetch+merge//equal to pull
 git clone "URL"//pulls the .git and everything
 
 ssh is a protocol that provides user a secure access to the remote server over an untrusted network. It uses public key authentication . also it uses encryption using encryption algo (RSA).
