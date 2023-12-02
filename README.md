@@ -44,4 +44,7 @@ git commit// this will commit and open an editor to add a mesage for the commit
 
 
 
-
+branches are for making changes into an existening directory by copying 
+git branch // to know the present branch
+git branch fbranch /// to create a branch with an image of the master branch
+git checkout fbranch //to switch or move to that particular branch
