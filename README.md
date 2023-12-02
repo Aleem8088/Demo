@@ -36,6 +36,9 @@ git commit// this will commit and open an editor to add a mesage for the commit
 
  git commit -a -m "modified abhi.txt to add as well as to commit at once"
 
+ git log// log of the changes
+ 
+
 
 
 
